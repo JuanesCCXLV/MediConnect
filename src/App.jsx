@@ -1,9 +1,5 @@
-import Inicio from './components/Inicio';
-
-function App() { 
-    return (
-        <Inicio />
-    );
+function App() {
+  return null; 
 }
 
 export default App;
