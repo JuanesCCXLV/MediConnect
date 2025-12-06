@@ -30,7 +30,7 @@ export default function AgendarCita() {
     <div style={styles.page}>
       <div style={styles.header}> 
         <h1 style={styles.title}>Agendar Cita</h1>
-        <Link to="/" style={styles.backBtn}>⟵ Volver</Link>
+        <Link to="/principal" style={styles.backBtn}>⟵ Volver</Link>
       </div>
 
       <div style={styles.sectionGrid}>
