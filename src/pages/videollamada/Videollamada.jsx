@@ -18,7 +18,7 @@ export default function Videollamada() {
   }, []);
 
   function handleExit() {
-    navigate("/"); // vuelve a inicio
+    navigate("/principal"); // vuelve a inicio
   }
 
   return (
